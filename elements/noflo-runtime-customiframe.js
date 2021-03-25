@@ -42,7 +42,7 @@ Polymer({
     },
     runtimeUrl: {
       type: String,
-      value: 'https://noflojs.org/noflo-browser/everything.html',
+      value: 'http://localhost:3000/browser/everything.html',
     },
   },
 
